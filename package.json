@@ -1,0 +1,11 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "description": "Exploration of async operator in Javascript",
+  "main": "example1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CJB3",
+  "license": "ISC"
+}
